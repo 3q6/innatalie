@@ -1,0 +1,2 @@
+ss = export(module.?_start.module):encodepriv(main.lua@:ff)
+redirect(exported_module_@ss)#~req
